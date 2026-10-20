@@ -15,7 +15,6 @@ The application demonstrates how programming can be used to solve a practical pr
 - Calculates membership quotations based on user input.
 - Displays the calculated quotation in the console.
 
-*Note: Update this list to match the exact features implemented in your code.*
 
 ## 🛠️ Technologies Used
 
@@ -49,7 +48,7 @@ Through this project, I practised applying C++ programming concepts to a real-wo
 - Applying conditional logic to membership pricing and discounts.
 - Displaying results in a console application.
 
-*Edit this section to reflect the concepts you actually used and learned.*
+
 
 ## 🔮 Future Improvements
 
